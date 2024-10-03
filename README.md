@@ -1,3 +1,5 @@
+![Banner LinkedIn Hitam Grid Bentuk 2D](https://github.com/user-attachments/assets/638f07c3-91ef-4557-91dd-cb7989d365c5)
+
 ### Hello there 👋
 
 #### A Final Year University Student by day ☼ and a Mahoraga (Adaptive) Programmer by night ☾
