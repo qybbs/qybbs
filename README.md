@@ -14,15 +14,5 @@ Host/Organizing [Cont Solution Indonesia](https://www.contsoldev.com/);<br>
 ---
 
 ### 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qybbs&layout=compact&langs_count=6&theme=dark)
 
----
-
-### 🕒 Coding Stats (via WakaTime)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-### 🛠️ Languages Overview
-<img src="https://chart.googleapis.com/chart?chs=250x250&cht=p&chd=t:40,30,20,10&chl=PHP|JavaScript|Python|Other&chco=4CAF50,2196F3,FF9800,9E9E9E" alt="Languages">
