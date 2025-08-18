@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Iqbal – Creative Technologist & Student Leader
+## 👋 Hello, I'm Iqbal – Creative Technologist
 
 ![Banner](https://github.com/user-attachments/assets/638f07c3-91ef-4557-91dd-cb7989d365c5)
 
