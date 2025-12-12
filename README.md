@@ -4,7 +4,8 @@
 
 🎓 Alumni @ [UPN "Veteran" Yogyakarta](https://if.upnyk.ac.id/)  
 🎤 Co-Founder @ [Cont Solution Indonesia](https://www.contsoldev.com/)  
-👨‍💻 Fullstack Developer @ [Berijalan Techno Center](https://berijalan.co.id/tab-layanan/Techno-Center/Mw==)  
+👨‍💻 Fullstack Developer @ [AstraPay](https://astrapay.com/)  
+👨‍💻 Ex-Fullstack Developer Intern @ [Berijalan Techno Center](https://berijalan.co.id/tab-layanan/Techno-Center/Mw==)  
 👨‍💻 Ex-Backend Developer Intern @ [GeekGarden Software House](https://geekgarden.id/)  
 🌀 Mahoraga (Adaptive) Fullstack Developer
 
@@ -12,9 +13,8 @@
 
 ### 🛠 Tech Stack I Use
 
-- Languages: PHP, JavaScript, Python
-- Web: HTML, CSS, React, Node.js
-- Design: CorelDRAW, Figma, Adobe XD
+- Languages: PHP, JavaScript, Python, Java
+- Web: HTML, CSS, React, Node.js, Spring, Angular, Astro
 
 ---
 
@@ -25,18 +25,11 @@
 
 ---
 
-### 🚧 Currently Building
+### ✅ Latest Product
 
-- 🔐 Decentralized AI Code Reviewer (ICP + React + Rust)
-- ✉️ Email-based Omnichannel Support System
-- 🤖 Personalized Medical Advisor
-
----
-
-### 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qybbs&layout=compact&langs_count=6&theme=dark)
-![Iqbal's GitHub stats](https://github-readme-stats.vercel.app/api?username=qybbs&show_icons=true&theme=dark)
+- 📈 AI-Powered Small-Medium Enterprise Marketing Support
+- 📋 Job Applicant AI Preparation Support
+- 🤖 Personalized Medical Advisor AI
 
 ---
 
