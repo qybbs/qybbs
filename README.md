@@ -1,6 +1,7 @@
 ## 👋 Hello, I'm Iqbal – Creative Technologist
 
-![Banner](https://github.com/user-attachments/assets/638f07c3-91ef-4557-91dd-cb7989d365c5)
+![Banner](https://github.com/user-attachments/assets/8c4f494e-2159-4f63-b125-66ec837b7c25)
+
 
 🎓 Alumni @ [UPN "Veteran" Yogyakarta](https://if.upnyk.ac.id/)  
 🎤 Co-Founder @ [Cont Solution Indonesia](https://www.contsoldev.com/)  
